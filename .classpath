@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="WebContent/lib/activation.jar"/>
+	<classpathentry kind="lib" path="WebContent/lib/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="WebContent/lib/asm.jar"/>
+	<classpathentry kind="lib" path="WebContent/lib/axis-ant.jar"/>
+	<classpathentry kind="lib" path="WebContent/lib/axis.jar"/>
+	<classpathentry kind="lib" path="WebContent/lib/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="WebContent/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/lib/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="WebContent/lib/log4j-1.2.8.jar"/>
+	<classpathentry kind="lib" path="WebContent/lib/mail.jar"/>
+	<classpathentry kind="lib" path="WebContent/lib/saaj.jar"/>
+	<classpathentry kind="lib" path="WebContent/lib/wsdl4j-1.5.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/lib/xerces-2.6.2.jar"/>
+	<classpathentry kind="lib" path="WebContent/lib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="WebContent/lib/XmlSchema-1.0.jar"/>
+	<classpathentry kind="lib" path="N:/JavaWeb/apache-tomcat-8.5.31/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="WebContent/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="WebContent/lib/standard.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
